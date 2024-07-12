@@ -1,0 +1,105 @@
+%SET{ "REPORTER_URL" value="%ATTACHURL%/L1Menu_test_axo_v1_v3_v4.html" }%
+
+---+!! !L1Menu_test_axo_v1_v3_v4
+
+%TOC%
+
+---++ Introduction
+
+| *Trigger Menu Name* | *Grammar Version* | *Compatible releases* | *First run with collision key* |
+| !L1Menu_test_axo_v1_v3_v4 | 0.13 | >= X_Y_Z |  |
+
+---++ Changes with respect to !L1Menu_xxxx
+   * Added the following algorithms
+      * bxxx L1_xxxx
+   * Changed the following algorithms
+      * bxxx L1_xxxx
+   * Removed the following algorithms
+      * bxxx L1_xxxx
+   * references:
+      * https://its.cern.ch/jira/browse/CMSHLT-xxxx
+
+---+++ Menu availability in a CMSSW job
+
+---++ List and description of algorithm and technical triggers
+
+
+A complete description of the algorithm and technical trigger implementation is available in the attached
+[[%GET{"REPORTER_URL"}%][HTML Description of L1 Menu]]. %ICON{updated}%
+
+---+++ L1 menu identification
+
+|Menu Name: | !L1Menu_test_axo_v1_v3_v4 |
+|Menu UUID: | 9aa98d25-7a9a-42e5-94be-dd3cfddbdfa7 |
+|Firmware UUID: | d0bd8481-ba3d-40b2-8d50-ae6beb21297c  |
+|Associated L1 scale DB key: | scales_2024_05_15 |
+
+
+---+++ Summary
+
+   * Number of algorithm triggers: 20 defined.
+
+Number of algorithm triggers per trigger group:
+
+    | *Trigger group* | *Number of bits used* |
+      | !Signal algorithm triggers: | 20 |
+
+<p style="page-break-before: always">&nbsp;</p>
+
+---+++ List of algorithm triggers sorted by trigger groups
+
+<p style="page-break-before: always">&nbsp;</p>
+---++++ !Signal algorithm triggers
+|  *Trigger Name*  |  *Trigger Alias*  |  *Bit*  |  *Comments*  |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_VLoose_v1 ][L1_AXO_VLoose_v1]]   | L1_AXO_VLoose_v1  | 100 |  |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Loose_v1 ][L1_AXO_Loose_v1]]   | L1_AXO_Loose_v1  | 101 |  |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Nominal_v1 ][L1_AXO_Nominal_v1]]   | L1_AXO_Nominal_v1  | 102 |  |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Tight_v1 ][L1_AXO_Tight_v1]]   | L1_AXO_Tight_v1  | 103 |  |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_VTight_v1 ][L1_AXO_VTight_v1]]   | L1_AXO_VTight_v1  | 104 |  |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_VLoose_v3 ][L1_AXO_VLoose_v3]]   | L1_AXO_VLoose_v3  | 300 |  |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Loose_v3 ][L1_AXO_Loose_v3]]   | L1_AXO_Loose_v3  | 301 |  |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Nominal_v3 ][L1_AXO_Nominal_v3]]   | L1_AXO_Nominal_v3  | 302 |  |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Tight_v3 ][L1_AXO_Tight_v3]]   | L1_AXO_Tight_v3  | 303 |  |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_VTight_v3 ][L1_AXO_VTight_v3]]   | L1_AXO_VTight_v3  | 304 |  |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_VLoose ][L1_AXO_VLoose]]   | L1_AXO_VLoose  | 400 |  |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Loose ][L1_AXO_Loose]]   | L1_AXO_Loose  | 401 |  |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Nominal ][L1_AXO_Nominal]]   | L1_AXO_Nominal  | 402 |  |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Tight ][L1_AXO_Tight]]   | L1_AXO_Tight  | 403 |  |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_VTight ][L1_AXO_VTight]]   | L1_AXO_VTight  | 404 |  |
+|[[%GET{"REPORTER_URL"}%#L1_CICADA_VLoose ][L1_CICADA_VLoose]]   | L1_CICADA_VLoose  | 445 |  |
+|[[%GET{"REPORTER_URL"}%#L1_CICADA_Loose ][L1_CICADA_Loose]]   | L1_CICADA_Loose  | 446 |  |
+|[[%GET{"REPORTER_URL"}%#L1_CICADA_Medium ][L1_CICADA_Medium]]   | L1_CICADA_Medium  | 447 |  |
+|[[%GET{"REPORTER_URL"}%#L1_CICADA_Tight ][L1_CICADA_Tight]]   | L1_CICADA_Tight  | 448 |  |
+|[[%GET{"REPORTER_URL"}%#L1_CICADA_VTight ][L1_CICADA_VTight]]   | L1_CICADA_VTight  | 449 |  |
+!Signal algorithm triggers: 20 bits defined
+
+
+
+<p style="page-break-before: always">&nbsp;</p>
+
+---+++ List of algorithm triggers sorted by bits
+
+| *Algorithm* | *Alias* | *Bit number* | *Module Id* |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_VLoose_v1 ][L1_AXO_VLoose_v1]]   |L1_AXO_VLoose_v1 |100 |5 |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Loose_v1 ][L1_AXO_Loose_v1]]   |L1_AXO_Loose_v1 |101 |4 |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Nominal_v1 ][L1_AXO_Nominal_v1]]   |L1_AXO_Nominal_v1 |102 |5 |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Tight_v1 ][L1_AXO_Tight_v1]]   |L1_AXO_Tight_v1 |103 |4 |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_VTight_v1 ][L1_AXO_VTight_v1]]   |L1_AXO_VTight_v1 |104 |4 |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_VLoose_v3 ][L1_AXO_VLoose_v3]]   |L1_AXO_VLoose_v3 |300 |1 |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Loose_v3 ][L1_AXO_Loose_v3]]   |L1_AXO_Loose_v3 |301 |1 |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Nominal_v3 ][L1_AXO_Nominal_v3]]   |L1_AXO_Nominal_v3 |302 |3 |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Tight_v3 ][L1_AXO_Tight_v3]]   |L1_AXO_Tight_v3 |303 |5 |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_VTight_v3 ][L1_AXO_VTight_v3]]   |L1_AXO_VTight_v3 |304 |3 |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_VLoose ][L1_AXO_VLoose]]   |L1_AXO_VLoose |400 |0 |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Loose ][L1_AXO_Loose]]   |L1_AXO_Loose |401 |0 |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Nominal ][L1_AXO_Nominal]]   |L1_AXO_Nominal |402 |2 |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_Tight ][L1_AXO_Tight]]   |L1_AXO_Tight |403 |4 |
+|[[%GET{"REPORTER_URL"}%#L1_AXO_VTight ][L1_AXO_VTight]]   |L1_AXO_VTight |404 |2 |
+|[[%GET{"REPORTER_URL"}%#L1_CICADA_VLoose ][L1_CICADA_VLoose]]   |L1_CICADA_VLoose |445 |5 |
+|[[%GET{"REPORTER_URL"}%#L1_CICADA_Loose ][L1_CICADA_Loose]]   |L1_CICADA_Loose |446 |5 |
+|[[%GET{"REPORTER_URL"}%#L1_CICADA_Medium ][L1_CICADA_Medium]]   |L1_CICADA_Medium |447 |5 |
+|[[%GET{"REPORTER_URL"}%#L1_CICADA_Tight ][L1_CICADA_Tight]]   |L1_CICADA_Tight |448 |5 |
+|[[%GET{"REPORTER_URL"}%#L1_CICADA_VTight ][L1_CICADA_VTight]]   |L1_CICADA_VTight |449 |5 |
+
+
+<p style="page-break-before: always">&nbsp;</p>

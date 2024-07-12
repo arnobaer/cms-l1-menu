@@ -1,0 +1,278 @@
+2024-07-12 12:16:36 INFO : distributing menu...
+2024-07-12 12:16:36 INFO : loading resource information from JSON: /tmp/tmp8jgxytfc/env/lib/python3.10/site-packages/tmVhdlProducer/config/resource_default.json
+2024-07-12 12:16:36 INFO : :: listing resources...
+2024-07-12 12:16:36 INFO : thresholds:
+2024-07-12 12:16:36 INFO :  * floor: brams=14.69%, sliceLUTs=9.03%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * ceiling: brams=100.00%, sliceLUTs=90.00%, processors=100.00%
+2024-07-12 12:16:36 INFO : instances:
+2024-07-12 12:16:36 INFO :  * MuonCondition[ muon ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * MuonCondition[ muon, muon ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * tbpt: brams=0.00%, sliceLUTs=0.08%, processors=0.33%
+2024-07-12 12:16:36 INFO :    * chgcor: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * MuonCondition[ muon, muon, muon ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * chgcor: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * MuonCondition[ muon, muon, muon, muon ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * chgcor: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CaloCondition[ calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CaloCondition[ calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * tbpt: brams=0.00%, sliceLUTs=0.05%, processors=0.33%
+2024-07-12 12:16:36 INFO :  * CaloCondition[ calo, calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CaloCondition[ calo, calo, calo, calo ]: brams=0.00%, sliceLUTs=0.39%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CaloCondition[ calo, calo, calo, calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CaloCondition[ calo, calo, calo, calo, calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CaloCondition[ calo, calo, calo, calo, calo, calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CaloCondition[ calo, calo, calo, calo, calo, calo, calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CaloCondition[ calo, calo, calo, calo, calo, calo, calo, calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CaloCondition[ calo, calo, calo, calo, calo, calo, calo, calo, calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CaloCondition[ calo, calo, calo, calo, calo, calo, calo, calo, calo, calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CaloCondition[ calo, calo, calo, calo, calo, calo, calo, calo, calo, calo, calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CaloConditionOvRm[ calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * deta: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dphi: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dr: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CaloConditionOvRm[ calo, calo, calo ]: brams=0.00%, sliceLUTs=0.13%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * deta: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dphi: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dr: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * tbpt: brams=0.00%, sliceLUTs=0.05%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CaloConditionOvRm[ calo, calo, calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * deta: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dphi: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dr: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CaloConditionOvRm[ calo, calo, calo, calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * deta: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dphi: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dr: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CorrelationCondition[ calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * deta: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dphi: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dr: brams=0.00%, sliceLUTs=0.01%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * tbpt: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * mass: brams=0.00%, sliceLUTs=0.01%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * massdr: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CorrelationCondition[ calo, muon ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * deta: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dphi: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dr: brams=0.00%, sliceLUTs=0.01%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * tbpt: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * mass: brams=0.00%, sliceLUTs=0.01%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * massdr: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CorrelationCondition[ calo, esum ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dphi: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * tbpt: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * mass: brams=0.00%, sliceLUTs=0.01%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CorrelationCondition[ muon, esum ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dphi: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * tbpt: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * mass: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CorrelationCondition[ muon, muon ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * deta: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dphi: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dr: brams=0.00%, sliceLUTs=0.01%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * tbpt: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * mass: brams=0.00%, sliceLUTs=0.01%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * massupt: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * massdr: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * chgcor: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * Correlation3Condition[ calo, calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * mass: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * Correlation3Condition[ muon, muon, muon ]: brams=0.00%, sliceLUTs=0.19%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * mass: brams=0.00%, sliceLUTs=0.00%, processors=0.06%
+2024-07-12 12:16:36 INFO :  * CorrelationConditionOvRm[ calo, calo ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * deta: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dphi: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dr: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * tbpt: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * mass: brams=0.00%, sliceLUTs=0.01%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CorrelationConditionOvRm[ calo, calo, calo ]: brams=0.00%, sliceLUTs=0.15%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * deta: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dphi: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * dr: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * tbpt: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :    * mass: brams=0.00%, sliceLUTs=0.01%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * EsumsCondition[ esum ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * MinBiasCondition[ bias ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * ExternalCondition[ ext ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * TowerCountCondition[ count ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * AnomalyDetectionTrigger[ adt ]: brams=0.00%, sliceLUTs=1.79%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * Axol1tlTrigger[ axol1tl ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * TopologicalTrigger[ topological ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * ZDCPlus[ count ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * ZDCMinus[ count ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * CicadaTrigger[ cicada ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO :  * SignalCondition[ signal ]: brams=0.00%, sliceLUTs=0.00%, processors=0.00%
+2024-07-12 12:16:36 INFO : |---------------------------------------------------------------------------------------|
+2024-07-12 12:16:36 INFO : |                                                                                       |
+2024-07-12 12:16:36 INFO : | Algorithms sorted by payload (descending)                                             |
+2024-07-12 12:16:36 INFO : |                                                                                       |
+2024-07-12 12:16:36 INFO : |---------------------------------------------------------------------------------------|
+2024-07-12 12:16:36 INFO : |-------|---------|-----------|---------|-----------------------------------------------|
+2024-07-12 12:16:36 INFO : | Index | BRAMs   | SliceLUTs | DSPs    | Name                                          |
+2024-07-12 12:16:36 INFO : |-------|---------|-----------|---------|-----------------------------------------------|
+2024-07-12 12:16:36 INFO : |   446 |  0.000% |    0.001% |  0.000% | L1_CICADA_Loose                               |
+2024-07-12 12:16:36 INFO : |   447 |  0.000% |    0.001% |  0.000% | L1_CICADA_Medium                              |
+2024-07-12 12:16:36 INFO : |   448 |  0.000% |    0.001% |  0.000% | L1_CICADA_Tight                               |
+2024-07-12 12:16:36 INFO : |   445 |  0.000% |    0.001% |  0.000% | L1_CICADA_VLoose                              |
+2024-07-12 12:16:36 INFO : |   449 |  0.000% |    0.001% |  0.000% | L1_CICADA_VTight                              |
+2024-07-12 12:16:36 INFO : |   101 |  0.000% |    0.378% |  0.000% | L1_AXO_Loose_v1                               |
+2024-07-12 12:16:36 INFO : |   102 |  0.000% |    0.378% |  0.000% | L1_AXO_Nominal_v1                             |
+2024-07-12 12:16:36 INFO : |   103 |  0.000% |    0.378% |  0.000% | L1_AXO_Tight_v1                               |
+2024-07-12 12:16:36 INFO : |   100 |  0.000% |    0.378% |  0.000% | L1_AXO_VLoose_v1                              |
+2024-07-12 12:16:36 INFO : |   104 |  0.000% |    0.378% |  0.000% | L1_AXO_VTight_v1                              |
+2024-07-12 12:16:36 INFO : |   401 |  0.000% |    1.786% |  0.000% | L1_AXO_Loose                                  |
+2024-07-12 12:16:36 INFO : |   301 |  0.000% |    1.786% |  0.000% | L1_AXO_Loose_v3                               |
+2024-07-12 12:16:36 INFO : |   402 |  0.000% |    1.786% |  0.000% | L1_AXO_Nominal                                |
+2024-07-12 12:16:36 INFO : |   302 |  0.000% |    1.786% |  0.000% | L1_AXO_Nominal_v3                             |
+2024-07-12 12:16:36 INFO : |   403 |  0.000% |    1.786% |  0.000% | L1_AXO_Tight                                  |
+2024-07-12 12:16:36 INFO : |   303 |  0.000% |    1.786% |  0.000% | L1_AXO_Tight_v3                               |
+2024-07-12 12:16:36 INFO : |   400 |  0.000% |    1.786% |  0.000% | L1_AXO_VLoose                                 |
+2024-07-12 12:16:36 INFO : |   300 |  0.000% |    1.786% |  0.000% | L1_AXO_VLoose_v3                              |
+2024-07-12 12:16:36 INFO : |   404 |  0.000% |    1.786% |  0.000% | L1_AXO_VTight                                 |
+2024-07-12 12:16:36 INFO : |   304 |  0.000% |    1.786% |  0.000% | L1_AXO_VTight_v3                              |
+2024-07-12 12:16:36 INFO : |-------|---------|-----------|---------|-----------------------------------------------|
+2024-07-12 12:16:36 INFO : |---------------------------------------------------------------------------------------|
+2024-07-12 12:16:36 INFO : distributing algorithms, shadow ratio: 0.0
+2024-07-12 12:16:36 INFO : starting algorithm distribution for 20 algorithms on 6 modules using shadow ratio of 0.0
+2024-07-12 12:16:36 INFO :  . adding L1_AXO_Loose (401) to module 0
+2024-07-12 12:16:36 INFO :  . adding L1_AXO_Loose_v3 (301) to module 1
+2024-07-12 12:16:36 INFO :  . adding L1_AXO_Nominal (402) to module 2
+2024-07-12 12:16:36 INFO :  . adding L1_AXO_Nominal_v3 (302) to module 3
+2024-07-12 12:16:36 INFO :  . adding L1_AXO_Tight (403) to module 4
+2024-07-12 12:16:36 INFO :  . adding L1_AXO_Tight_v3 (303) to module 5
+2024-07-12 12:16:36 INFO :  . adding L1_AXO_VLoose (400) to module 0
+2024-07-12 12:16:36 INFO :  . adding L1_AXO_VLoose_v3 (300) to module 1
+2024-07-12 12:16:36 INFO :  . adding L1_AXO_VTight (404) to module 2
+2024-07-12 12:16:36 INFO :  . adding L1_AXO_VTight_v3 (304) to module 3
+2024-07-12 12:16:36 INFO :  . adding L1_AXO_Loose_v1 (101) to module 4
+2024-07-12 12:16:36 INFO :  . adding L1_AXO_Nominal_v1 (102) to module 5
+2024-07-12 12:16:36 INFO :  . adding L1_AXO_Tight_v1 (103) to module 4
+2024-07-12 12:16:36 INFO :  . adding L1_AXO_VLoose_v1 (100) to module 5
+2024-07-12 12:16:36 INFO :  . adding L1_AXO_VTight_v1 (104) to module 4
+2024-07-12 12:16:36 INFO :  . adding L1_CICADA_Loose (446) to module 5
+2024-07-12 12:16:36 INFO :  . adding L1_CICADA_Medium (447) to module 5
+2024-07-12 12:16:36 INFO :  . adding L1_CICADA_Tight (448) to module 5
+2024-07-12 12:16:36 INFO :  . adding L1_CICADA_VLoose (445) to module 5
+2024-07-12 12:16:36 INFO :  . adding L1_CICADA_VTight (449) to module 5
+2024-07-12 12:16:36 INFO : |-----------------------------------------------------------------------------|
+2024-07-12 12:16:36 INFO : |                                                                             |
+2024-07-12 12:16:36 INFO : | Detailed distribition on 6 modules, shadow ratio: 0.0                       |
+2024-07-12 12:16:36 INFO : |                                                                             |
+2024-07-12 12:16:36 INFO : |------------|----------------------------------------------------------------|
+2024-07-12 12:16:36 INFO : | Module     | Algorithm                                                      |
+2024-07-12 12:16:36 INFO : | ID | Index | Index | Name                                                   |
+2024-07-12 12:16:36 INFO : |----|-------|-------|--------------------------------------------------------|
+2024-07-12 12:16:36 INFO : |  0 |     0 |   401 | L1_AXO_Loose                                           |
+2024-07-12 12:16:36 INFO : |  0 |     1 |   400 | L1_AXO_VLoose                                          |
+2024-07-12 12:16:36 INFO : |  1 |     0 |   301 | L1_AXO_Loose_v3                                        |
+2024-07-12 12:16:36 INFO : |  1 |     1 |   300 | L1_AXO_VLoose_v3                                       |
+2024-07-12 12:16:36 INFO : |  2 |     0 |   402 | L1_AXO_Nominal                                         |
+2024-07-12 12:16:36 INFO : |  2 |     1 |   404 | L1_AXO_VTight                                          |
+2024-07-12 12:16:36 INFO : |  3 |     0 |   302 | L1_AXO_Nominal_v3                                      |
+2024-07-12 12:16:36 INFO : |  3 |     1 |   304 | L1_AXO_VTight_v3                                       |
+2024-07-12 12:16:36 INFO : |  4 |     0 |   403 | L1_AXO_Tight                                           |
+2024-07-12 12:16:36 INFO : |  4 |     1 |   101 | L1_AXO_Loose_v1                                        |
+2024-07-12 12:16:36 INFO : |  4 |     2 |   103 | L1_AXO_Tight_v1                                        |
+2024-07-12 12:16:36 INFO : |  4 |     3 |   104 | L1_AXO_VTight_v1                                       |
+2024-07-12 12:16:36 INFO : |  5 |     0 |   303 | L1_AXO_Tight_v3                                        |
+2024-07-12 12:16:36 INFO : |  5 |     1 |   102 | L1_AXO_Nominal_v1                                      |
+2024-07-12 12:16:36 INFO : |  5 |     2 |   100 | L1_AXO_VLoose_v1                                       |
+2024-07-12 12:16:36 INFO : |  5 |     3 |   446 | L1_CICADA_Loose                                        |
+2024-07-12 12:16:36 INFO : |  5 |     4 |   447 | L1_CICADA_Medium                                       |
+2024-07-12 12:16:36 INFO : |  5 |     5 |   448 | L1_CICADA_Tight                                        |
+2024-07-12 12:16:36 INFO : |  5 |     6 |   445 | L1_CICADA_VLoose                                       |
+2024-07-12 12:16:36 INFO : |  5 |     7 |   449 | L1_CICADA_VTight                                       |
+2024-07-12 12:16:36 INFO : |----|-------|-------|--------------------------------------------------------|
+2024-07-12 12:16:36 INFO : |-----------------------------------------------------------------------------|
+2024-07-12 12:16:36 INFO : |                                                                             |
+2024-07-12 12:16:36 INFO : | Condition distribution, sorted by weight (descending)                       |
+2024-07-12 12:16:36 INFO : |                                                                             |
+2024-07-12 12:16:36 INFO : |-----------------------------------------------------------------------------|
+2024-07-12 12:16:36 INFO : |-----------------------------------------------------------------------------------|
+2024-07-12 12:16:36 INFO : | Name                                             | Modules | sLUTs | DSPs | BRAMs |
+2024-07-12 12:16:36 INFO : |--------------------------------------------------|---------|-------|------|-------|
+2024-07-12 12:16:36 INFO : | Axol1tlTrigger_i10                               | 1       | 7736  | 0    | 0     |
+2024-07-12 12:16:36 INFO : | Axol1tlTrigger_i11                               | 1       | 7736  | 0    | 0     |
+2024-07-12 12:16:36 INFO : | Axol1tlTrigger_i12                               | 3       | 7736  | 0    | 0     |
+2024-07-12 12:16:36 INFO : | Axol1tlTrigger_i13                               | 5       | 7736  | 0    | 0     |
+2024-07-12 12:16:36 INFO : | Axol1tlTrigger_i14                               | 3       | 7736  | 0    | 0     |
+2024-07-12 12:16:36 INFO : | Axol1tlTrigger_i5                                | 0       | 7736  | 0    | 0     |
+2024-07-12 12:16:36 INFO : | Axol1tlTrigger_i6                                | 0       | 7736  | 0    | 0     |
+2024-07-12 12:16:36 INFO : | Axol1tlTrigger_i7                                | 2       | 7736  | 0    | 0     |
+2024-07-12 12:16:36 INFO : | Axol1tlTrigger_i8                                | 4       | 7736  | 0    | 0     |
+2024-07-12 12:16:36 INFO : | Axol1tlTrigger_i9                                | 2       | 7736  | 0    | 0     |
+2024-07-12 12:16:36 INFO : | Axol1tlTrigger_i15                               | 5       | 1639  | 0    | 0     |
+2024-07-12 12:16:36 INFO : | Axol1tlTrigger_i16                               | 4       | 1639  | 0    | 0     |
+2024-07-12 12:16:36 INFO : | Axol1tlTrigger_i17                               | 5       | 1639  | 0    | 0     |
+2024-07-12 12:16:36 INFO : | Axol1tlTrigger_i18                               | 4       | 1639  | 0    | 0     |
+2024-07-12 12:16:36 INFO : | Axol1tlTrigger_i19                               | 4       | 1639  | 0    | 0     |
+2024-07-12 12:16:36 INFO : | CicadaTrigger_i0                                 | 5       | 4     | 0    | 0     |
+2024-07-12 12:16:36 INFO : | CicadaTrigger_i1                                 | 5       | 4     | 0    | 0     |
+2024-07-12 12:16:36 INFO : | CicadaTrigger_i2                                 | 5       | 4     | 0    | 0     |
+2024-07-12 12:16:36 INFO : | CicadaTrigger_i3                                 | 5       | 4     | 0    | 0     |
+2024-07-12 12:16:36 INFO : | CicadaTrigger_i4                                 | 5       | 4     | 0    | 0     |
+2024-07-12 12:16:36 INFO : |--------------------------------------------------|---------|-------|------|-------|
+2024-07-12 12:16:36 INFO : |--------------------------------------------------------------------------------------|
+2024-07-12 12:16:36 INFO : |                                                                                      |
+2024-07-12 12:16:36 INFO : | Summary for distribution on 6 modules, shadow ratio: 0.0                             |
+2024-07-12 12:16:36 INFO : |                                                                                      |
+2024-07-12 12:16:36 INFO : |-------------------------------------|------------------------------------------------|
+2024-07-12 12:16:36 INFO : |                                     |                    Payload                     |
+2024-07-12 12:16:36 INFO : |-------------------------------------|------------------------------------------------|
+2024-07-12 12:16:36 INFO : |              Module                 |   SliceLUTs    |     BRAMs     |     DSPs      |
+2024-07-12 12:16:36 INFO : |-------------------------------------|------------------------------------------------|
+2024-07-12 12:16:36 INFO : | ID | Algorithms | Conditions | Rel. | Value  |  [%]  | Value |  [%]  | Value |  [%]  |
+2024-07-12 12:16:36 INFO : |----|------------|------------|------|--------|-------|-------|-------|-------|-------|
+2024-07-12 12:16:36 INFO : |  0 |          2 |          2 | 1.00 |  76215 | 17.59 |   636 | 43.27 |     0 |  0.00 |
+2024-07-12 12:16:36 INFO : |  1 |          2 |          2 | 1.00 |  76215 | 17.59 |   636 | 43.27 |     0 |  0.00 |
+2024-07-12 12:16:36 INFO : |  2 |          2 |          2 | 1.00 |  76215 | 17.59 |   636 | 43.27 |     0 |  0.00 |
+2024-07-12 12:16:36 INFO : |  3 |          2 |          2 | 1.00 |  76215 | 17.59 |   636 | 43.27 |     0 |  0.00 |
+2024-07-12 12:16:36 INFO : |  4 |          4 |          4 | 1.00 |  74018 | 17.09 |   636 | 43.27 |     0 |  0.00 |
+2024-07-12 12:16:36 INFO : |  5 |          8 |          8 | 1.00 |  73643 | 17.00 |   636 | 43.27 |     0 |  0.00 |
+2024-07-12 12:16:36 INFO : |----|------------|------------|------|--------|-------|-------|-------|-------|-------|
+2024-07-12 12:16:36 INFO : writing VHDL modules...
+2024-07-12 12:16:36 INFO : writing 20 algorithms to 6 module(s)
+2024-07-12 12:16:36 INFO : writing output for module: 0
+2024-07-12 12:16:36 INFO : algo_index.vhd          : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_0/src/algo_index.vhd
+2024-07-12 12:16:37 INFO : gtl_module_signals.vhd  : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_0/src/gtl_module_signals.vhd
+2024-07-12 12:16:37 INFO : gtl_module_instances.vhd: /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_0/src/gtl_module_instances.vhd
+2024-07-12 12:16:37 INFO : ugt_constants.vhd       : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_0/src/ugt_constants.vhd
+2024-07-12 12:16:37 INFO : writing output for module: 1
+2024-07-12 12:16:37 INFO : algo_index.vhd          : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_1/src/algo_index.vhd
+2024-07-12 12:16:37 INFO : gtl_module_signals.vhd  : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_1/src/gtl_module_signals.vhd
+2024-07-12 12:16:37 INFO : gtl_module_instances.vhd: /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_1/src/gtl_module_instances.vhd
+2024-07-12 12:16:37 INFO : ugt_constants.vhd       : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_1/src/ugt_constants.vhd
+2024-07-12 12:16:37 INFO : writing output for module: 2
+2024-07-12 12:16:37 INFO : algo_index.vhd          : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_2/src/algo_index.vhd
+2024-07-12 12:16:37 INFO : gtl_module_signals.vhd  : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_2/src/gtl_module_signals.vhd
+2024-07-12 12:16:37 INFO : gtl_module_instances.vhd: /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_2/src/gtl_module_instances.vhd
+2024-07-12 12:16:37 INFO : ugt_constants.vhd       : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_2/src/ugt_constants.vhd
+2024-07-12 12:16:37 INFO : writing output for module: 3
+2024-07-12 12:16:37 INFO : algo_index.vhd          : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_3/src/algo_index.vhd
+2024-07-12 12:16:37 INFO : gtl_module_signals.vhd  : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_3/src/gtl_module_signals.vhd
+2024-07-12 12:16:37 INFO : gtl_module_instances.vhd: /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_3/src/gtl_module_instances.vhd
+2024-07-12 12:16:37 INFO : ugt_constants.vhd       : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_3/src/ugt_constants.vhd
+2024-07-12 12:16:37 INFO : writing output for module: 4
+2024-07-12 12:16:37 INFO : algo_index.vhd          : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_4/src/algo_index.vhd
+2024-07-12 12:16:37 INFO : gtl_module_signals.vhd  : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_4/src/gtl_module_signals.vhd
+2024-07-12 12:16:37 INFO : gtl_module_instances.vhd: /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_4/src/gtl_module_instances.vhd
+2024-07-12 12:16:37 INFO : ugt_constants.vhd       : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_4/src/ugt_constants.vhd
+2024-07-12 12:16:37 INFO : writing output for module: 5
+2024-07-12 12:16:37 INFO : algo_index.vhd          : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_5/src/algo_index.vhd
+2024-07-12 12:16:37 INFO : gtl_module_signals.vhd  : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_5/src/gtl_module_signals.vhd
+2024-07-12 12:16:37 INFO : gtl_module_instances.vhd: /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_5/src/gtl_module_instances.vhd
+2024-07-12 12:16:37 INFO : ugt_constants.vhd       : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/vhdl/module_5/src/ugt_constants.vhd
+2024-07-12 12:16:37 INFO : writing updated XML file /home/arnold/L1Menu_test_axo_v1_v3_v4.xml
+2024-07-12 12:16:37 INFO : reading source XML menu file /home/arnold/L1Menu_test_axo_v1_v3_v4.xml
+2024-07-12 12:16:37 INFO : processing menu "L1Menu_test_axo_v1_v3_v4" ... 
+2024-07-12 12:16:37 INFO : updating menu information...
+2024-07-12 12:16:37 INFO : uuid_menu     : 9aa98d25-7a9a-42e5-94be-dd3cfddbdfa7
+2024-07-12 12:16:37 INFO : uuid_firmware : d0bd8481-ba3d-40b2-8d50-ae6beb21297c
+2024-07-12 12:16:37 INFO : n_modules     : 6
+2024-07-12 12:16:37 INFO : writing target XML menu file /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/xml/L1Menu_test_axo_v1_v3_v4-d1.xml
+2024-07-12 12:16:37 INFO : generating menu documentation...
+2024-07-12 12:16:37 INFO : writing HTML documentation /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/xml/L1Menu_test_axo_v1_v3_v4-d1.xml
+2024-07-12 12:16:38 INFO : writing TWIKI page template /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/xml/L1Menu_test_axo_v1_v3_v4-d1.xml
+2024-07-12 12:16:39 INFO : patching filenames...
+2024-07-12 12:16:39 INFO : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/doc/L1Menu_test_axo_v1_v3_v4.twiki --> /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/doc/L1Menu_test_axo_v1_v3_v4-d1.twiki
+2024-07-12 12:16:39 INFO : /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/doc/L1Menu_test_axo_v1_v3_v4.html --> /tmp/tmp8jgxytfc/cms-l1-menu/2024/L1Menu_test_axo_v1_v3_v4-d1/doc/L1Menu_test_axo_v1_v3_v4-d1.html
+2024-07-12 12:16:39 INFO : done.
